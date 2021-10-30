@@ -1,5 +1,6 @@
-var a = 1;
-while(a <= 100){
-   console.log(a);
-   a ++;
-}
+function displayMultiply(num1, num2, num3) {
+    return num1*num2*num3
+    }
+    
+    
+    console.log(displayMultiply(2, 3, 4));

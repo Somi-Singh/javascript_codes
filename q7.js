@@ -1,8 +1,5 @@
-var i=1
-do{
-  if(i%2==1){
-  console.log(i)
-  }
-  i++
-}
-while (i <=10)
+function getResult(num1,num2,num3){
+    console.log(num1-num2+num3)
+   }
+    
+   getResult(2,3,4,5);

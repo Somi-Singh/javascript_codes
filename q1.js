@@ -1,5 +1,6 @@
-var a = 1;
-while(a <= 100){
-  console.log(a++,"Hello World")
+function myFunction(a, b) {
+ return a * b;
 }
-  a ++;
+
+var x = myFunction(4, 3);
+console.log(x);

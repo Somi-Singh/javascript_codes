@@ -1,8 +1,7 @@
-let sum=0
-let i=0
-do{
-  sum=sum+i 
-  console.log(sum)
-  i++
-}
-while(i<=10)
+function function_print_lines(str1,str2){
+    console.log(str1);
+    console.log(str2);
+    }
+    function_print_lines("Mera naam somi hai.", "Main NavGurukul ki T&P hun.")
+    
+    

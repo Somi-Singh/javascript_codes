@@ -1,5 +1,5 @@
-var count = 1;
-while (count < 10) {
-   console.log(count);
-   count +=2;
-}
+function getFullName(firstName,lastName){
+    console.log(firstName+" "+lastName)
+   }
+    
+   getFullName("somi","singh");

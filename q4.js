@@ -1,7 +1,4 @@
-var i=0;
-while (i<7){
-    if(i%2==0){
-console.log(i)
+var isEqual = function(str1,str2){
+    console.log(str1===str2)
     }
-    i++;
-}
+    isEqual("somi","singh");
